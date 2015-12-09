@@ -1,6 +1,11 @@
 {
   "jspm": {
     "directories": {},
+    "dependencies": {
+      "angular2": "npm:angular2@^2.0.0-alpha.47",
+      "reflect-metadata": "npm:reflect-metadata@^0.1.2",
+      "zone.js": "npm:zone.js@^0.5.8"
+    },
     "devDependencies": {
       "typescript": "npm:typescript@1.5.3"
     }
