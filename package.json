@@ -1,0 +1,8 @@
+{
+  "jspm": {
+    "directories": {},
+    "devDependencies": {
+      "typescript": "npm:typescript@1.5.3"
+    }
+  }
+}
