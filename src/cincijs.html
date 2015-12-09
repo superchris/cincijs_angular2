@@ -1,3 +1,3 @@
 <ul>
-  <li *ng-for="#person of peeps">{{person.name}}</li>
+  <li *ng-for="#person of peeps"><peep-detail [peep]="person"></peep-detail></li>
 </ul>
